@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\jluca\OneDrive\Documentos\Exercícios Softblue\Módulo 3\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+240880419.index
+2538789529.index
+1212757043.index
