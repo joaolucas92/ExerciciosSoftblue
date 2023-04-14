@@ -1,0 +1,13 @@
+//Escreva uma aplicação que efetua o cálculo do fatorial utilizando a forma iterativa (usando
+//estruturas de repetição) e outra que efetua o mesmo cálculo, mas de forma recursiva (o
+//método de cálculo do fatorial chama ele mesmo).
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
