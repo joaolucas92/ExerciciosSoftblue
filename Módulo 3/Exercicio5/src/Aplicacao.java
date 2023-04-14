@@ -22,7 +22,7 @@ public class Aplicacao {
 			System.out.print(x + ", ");
 		}
 		
-		int y = 10;
+		int y = 5;
 		while (y < 1000) {
 			switch (y % 2) {
 			case 0:
